@@ -1,0 +1,11 @@
+/Users/br171440/workspace/python_to_rust/chapter2/bingocard/target/debug/deps/getrandom-6801a6ddad37fce4.rmeta: /Users/br171440/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/lib.rs /Users/br171440/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error.rs /Users/br171440/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util.rs /Users/br171440/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error_impls.rs /Users/br171440/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util_libc.rs /Users/br171440/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/use_file.rs /Users/br171440/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/macos.rs
+
+/Users/br171440/workspace/python_to_rust/chapter2/bingocard/target/debug/deps/getrandom-6801a6ddad37fce4.d: /Users/br171440/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/lib.rs /Users/br171440/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error.rs /Users/br171440/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util.rs /Users/br171440/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error_impls.rs /Users/br171440/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util_libc.rs /Users/br171440/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/use_file.rs /Users/br171440/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/macos.rs
+
+/Users/br171440/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/lib.rs:
+/Users/br171440/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error.rs:
+/Users/br171440/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util.rs:
+/Users/br171440/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error_impls.rs:
+/Users/br171440/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util_libc.rs:
+/Users/br171440/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/use_file.rs:
+/Users/br171440/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/macos.rs:
